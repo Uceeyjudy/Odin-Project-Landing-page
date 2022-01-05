@@ -1,0 +1,55 @@
+html{
+    text-align: center;
+    min-height: 100%;
+    margin: 0px;
+}
+#intro{
+    background-color: cadetblue;
+    text-overflow: clip;
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+}
+#information{
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+#quote{
+    background-color: cadetblue;
+    font-weight: lighter;
+    font-size: 36px;
+    font-style: italic;
+}
+ #hero {
+    box-sizing: border-box;
+    background-color: cadetblue;
+    color: white;
+   
+}
+#uceey{
+    height: 15%;
+    width: 15%;
+
+}
+footer{
+    box-sizing: border-box;
+    background-color: cadetblue;
+    color: white;
+}
+#action{
+    font-size: 24px;
+    background-color: royalblue;
+    box-sizing: border-box;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 15%;
+}
+nav{
+    position: relative;
+}
+h1{
+    text-shadow: 0 0 0.8em rgb(255, 255, 255);
+    text-align: center;
+}
